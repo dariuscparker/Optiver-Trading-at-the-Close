@@ -23,6 +23,7 @@ A competition that challenges participants to develop a predictive model for the
 
 ## Running the Notebook
 The notebook is best run in a Kaggle environment where the necessary compute resources and data are readily available. You can access the notebook via the following link:
+
 [Optiver Model Comparison and Ensemble](https://www.kaggle.com/code/deeparker/optiver-model-comparison-and-ensemble)
 
 ## Feedback and Contributions
